@@ -33,7 +33,7 @@ A sleek and responsive personal portfolio website built using **HTML, CSS, and J
 
 ## 📌 Live Demo
 
-[> _Host this site on GitHub Pages or another platform and paste the link here._](https://gursimran-portfolio.vercel.app/)
+https://gursimran-portfolio.vercel.app/
 
 ## 📬 Contact
 
